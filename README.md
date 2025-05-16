@@ -13,7 +13,7 @@ A Django web app for **Patient** and **Doctor** users. Each user type has a sepa
 ##  Setup
 
 ```bash
-git clone https://github.com/amarssingh/hosptal-portal.git
+git clone https://github.com/amarssingh/hospital-portal.git
 cd medical-portal
 python -m venv env
 env\Scripts\activate  # On Windows
